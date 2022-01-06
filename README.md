@@ -4,7 +4,8 @@
   <a href="https://www.linkedin.com/in/bernardesthamires/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   <div align="Left">
-  Olá galera! Atualmente trabalho como engenheira de dados desenvolvendo e mantendo pipelines de dados que sejam escaláveis e monitoráveis usando SQL, Python e ferramentas do GCP.
+  Hello World! 🙆‍♀️
+    Atualmente trabalho como engenheira de dados desenvolvendo e mantendo pipelines de dados que sejam escaláveis e monitoráveis usando SQL, Python e ferramentas do GCP.
     </div>
    
   #
