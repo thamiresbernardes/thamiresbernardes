@@ -6,7 +6,7 @@
   <h1> Hello World!🙆‍♀️ </h1>
   
   <div align="Left">
-  Atualmente trabalho como engenheira de dados desenvolvendo e mantendo pipelines de dados que sejam escaláveis e monitoráveis usando SQL, Python e ferramentas do GCP.
+  Atualmente trabalho como analytics engineer desenvolvendo e mantendo pipelines de dados que sejam escaláveis e monitoráveis usando SQL, Python e ferramentas de cloud.
     </div>
    
   #
