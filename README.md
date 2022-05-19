@@ -3,7 +3,7 @@
   <a href = "mailto:thamires.bernardes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bernardesthamires/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  <h1> Hello World!🙆‍♀️ </h1>
+  <h1> Hi, guys! </h1>
   
   <div align="Left">
   Atualmente trabalho como analytics engineer desenvolvendo e mantendo pipelines de dados que sejam escaláveis e monitoráveis usando SQL, Python e ferramentas de cloud.
