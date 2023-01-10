@@ -6,7 +6,7 @@
   <h1> Hi, guys! </h1>
   
   <div align="Left">
-  Atualmente trabalho como analytics engineer desenvolvendo e mantendo pipelines de dados que sejam escaláveis e monitoráveis usando SQL, Python e ferramentas de cloud.
+  I currently work as an analytics engineer developing and maintaining scalable and monitorable data pipelines using SQL, Python and cloud tools!
     </div>
    
   #
